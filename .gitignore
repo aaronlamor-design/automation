@@ -1,2 +1,6 @@
 config.json
 app.log
+/src
+/build
+/dist
+app.spec
