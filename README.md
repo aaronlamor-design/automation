@@ -2,7 +2,7 @@
 
 This is an automation script for [FireFaucet.win](https://firefaucet.win/ref/1568183?s=github)
 
-## To use you'll need to create a config.json in the same folder as your app.exe. Copy and paste the following into the config.json file:
+### To use you'll need to create a config.json in the same folder as your app.exe. Copy and paste the following into the config.json file:
 
 {  
 &emsp;&emsp;"chrome": "",  
