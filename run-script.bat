@@ -1,0 +1,1 @@
+cls && python A:\Automation\firefaucet\Firefaucet.py
