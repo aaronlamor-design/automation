@@ -1,7 +1,7 @@
 {
-  "chrome": "",
-  "profile": "",
-  "port": "",
-  "username": "",
-  "password": ""
+    "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "profile": "C:\\selenium\\ChromeProfile",
+    "port": "9222",
+    "username": "",
+    "password": ""
 }
